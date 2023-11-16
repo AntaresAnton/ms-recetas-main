@@ -1,0 +1,12 @@
+{
+    "nombre": "nombre de la receta",
+    "url_imagen": "URL de la imagen",
+    "ingrediente": "lista de ingredientes",
+    "preparacion": "instrucciones de preparación",
+    "estado": "estado de la receta",
+    "id_cat": "ID de la categoría",
+    "id_pais": "ID del país",
+    "fecha_creacion": "fecha de creación",
+    "id_usr": "ID del usuario"
+  }
+  
